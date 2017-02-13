@@ -16,4 +16,4 @@ The heroic `console.log` may be your first line of defense, but it need not be y
 
 ---
 
-*This [GitBook](https://www.gitbook.com) began as a [Gist](https://gist.github.com/glebec/8a0d06e54a4b3f95a33392f948e97b6a) for [Fullstack Academy](https://www.fullstackacademy.com/) students. It is hosted on [GitHub](https://github.com/glebec/debugging-js) where you can open [issues](https://github.com/glebec/debugging-js/issues) or contribute edits via [pull requests](https://github.com/glebec/debugging-js/pulls).*
+*This [GitBook](https://www.gitbook.com) began as a [Gist](https://gist.github.com/glebec/8a0d06e54a4b3f95a33392f948e97b6a) for [Fullstack Academy](https://www.fullstackacademy.com/) students. The source is hosted on [GitHub](https://github.com/glebec/debugging-js) where you can open [issues](https://github.com/glebec/debugging-js/issues) or contribute edits via [pull requests](https://github.com/glebec/debugging-js/pulls). The book can be easily read, browsed, and commented on [here](http://bit.ly/debugging-js).*
